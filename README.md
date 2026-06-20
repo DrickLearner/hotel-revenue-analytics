@@ -240,9 +240,9 @@ This project demonstrates proficiency in:
 
 Aspiring Data Analyst | Data Science Enthusiast
 
-GitHub: *Add your GitHub link*
+GitHub: https://github.com/DrickLearner
 
-LinkedIn: *Add your LinkedIn profile*
+LinkedIn: www.linkedin.com/in/drick021
 
 ---
 
